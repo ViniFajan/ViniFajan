@@ -1,10 +1,8 @@
-# Olá, Mundo! 👋
-
 Me chamo Vinícius, um entusiasta da tecnologia e estudante de desenvolvimento de software.
 
 ## Sobre Mim
 
-- 🎓 Estudante de Desenvolvimento de Sistemas.
+- 🎓 Técnico em Desenvolvimento de Sistemas.
 - 🌱 Aprendendo constantemente sobre Python e inteligência artificial.
 - 💼 Atualmente em busca de oportunidades de estágio ou emprego como desenvolvedor.
 - 📫 Como me alcançar: viniciusfajanpereira123@gmail.com
